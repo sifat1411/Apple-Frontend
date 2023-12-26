@@ -15,7 +15,8 @@ Visit the deployed website: [Apple Website Frontend](https://apple-website-front
 
 Clone the project
 
-
+```bash
+git clone https://github.com/sifat1411/Apple-Frontend/edit/main
 
 
 
