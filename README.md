@@ -19,21 +19,5 @@ Clone the project
 git clone https://github.com/Aman00702/Apple_Assign.git
 
 
-Navigate to the project directory
 
-bash
-Copy code
-cd apple
-npm install
-Install dependencies
 
-bash
-Copy code
-npm install
-Start the server
-
-bash
-Copy code
-# Run this command in the root directory (apple)
-npm run dev
-Now, you should be able to access the project locally. Feel free to explore and modify the code as needed.
