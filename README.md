@@ -15,8 +15,7 @@ Visit the deployed website: [Apple Website Frontend](https://apple-website-front
 
 Clone the project
 
-```bash
-git clone https://github.com/Aman00702/Apple_Assign.git
+
 
 
 
